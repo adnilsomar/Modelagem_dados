@@ -23,8 +23,10 @@ A clínica médica é uma entidade fictícia criada com o propósito de ilustrar
 
 ### **:green_circle: Quantas atividades médicas foram realizadas para cada gênero de pacientes, separadas por especialidade de médicos?**
 
-### **:green_circle:  Qual é a média de atividades médicas em que cada médico participou por mês no último ano?**
-Analisaremos os dados para identificar as receitas totais por mês durante o último ano. Isso permitirá compreender os padrões sazonais de receitas e tomar decisões orientadas pela variação mensal.
+### **:green_circle: Qual é a média de atividades médicas em que cada médico participou por mês no último ano?**
+
+### **:green_circle: Como as atividades médicas estão distribuídas ao longo dos meses do ano?**
+
 
 
 ## Criação do Modelo Lógico Dimensional
