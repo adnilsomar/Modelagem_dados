@@ -21,11 +21,11 @@ A clínica médica é uma entidade fictícia criada com o propósito de ilustrar
 
 ## Tarefas de negocio:
 
-### **:green_circle: Quantas atividades médicas foram realizadas para cada gênero de pacientes, separadas por especialidade de médicos?**
+#### **:green_circle: Quantas atividades médicas foram realizadas para cada gênero de pacientes, separadas por especialidade de médicos?**
 
-### **:green_circle: Qual é a média de atividades médicas em que cada médico participou por mês no último ano?**
+#### **:green_circle: Qual é a média de atividades médicas em que cada médico participou por mês no último ano?**
 
-### **:green_circle: Como as atividades médicas estão distribuídas ao longo dos meses do ano?**
+#### **:green_circle: Como as atividades médicas estão distribuídas ao longo dos meses do ano?**
 
 
 
