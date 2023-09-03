@@ -7,7 +7,15 @@ Criar um modelo lógico dimensional para poder responder as tarefas de negocio d
 
 ## Introdução:
 
-A clínica médica é uma entidade fictícia criada com o propósito de ilustrar como dados transacionais podem ser transformados em informações estratégicas por meio da criação de um modelo dimensional. Neste exercício, partiu-se de um modelo transacional para conceber um modelo dimensional capaz de abordar e responder a várias tarefas de negócio.
+A Clínica Médica é uma entidade fictícia estabelecida com o propósito de demonstrar a transformação de dados transacionais em informações estratégicas por meio da implementação de um modelo dimensional. Este exercício teve como ponto de partida um modelo transacional e evoluiu para conceber um modelo dimensional robusto, capaz de enfrentar e solucionar diversas questões de negócios.
+
+O modelo dimensional é uma abordagem sofisticada e eficaz de modelagem de dados que se destaca no campo da Business Intelligence (BI) e análise de dados. Nesse contexto, os dados são organizados em duas categorias principais de tabelas: tabelas de fatos e tabelas de dimensões.
+
+As tabelas de fatos armazenam medidas quantitativas, como faturamento, número de consultas, ou outras métricas relevantes. Elas se relacionam com as tabelas de dimensões por meio de chaves estrangeiras.
+
+Já as tabelas de dimensões contêm informações descritivas e contextuais que enriquecem os dados nas tabelas de fatos. Elas podem incluir detalhes sobre pacientes, médicos, procedimentos médicos, datas e outras dimensões relevantes para a clínica.
+
+Por meio da implementação do modelo dimensional, a Clínica Médica estará melhor equipada para analisar seus dados transacionais de maneira mais eficiente. Isso permitirá que os tomadores de decisão gerem relatórios e análises de negócios de alta qualidade, possibilitando a obtenção de insights estratégicos essenciais para aprimorar as operações e o sucesso da clínica. O modelo dimensional representa uma ferramenta valiosa para a transformação de dados em informações estratégicas sólidas, promovendo decisões informadas e baseadas em dados.
 
 
 ## Modelo transacional Clínica Médica
