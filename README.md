@@ -3,7 +3,7 @@
 ## Caso: Clínica Médica
 
 ## Objetivo:
-Criar um modelo logico dimensional para poder responder as tarefas de negocio do setor hospitalario, a partir do modelo logico transacional.
+Criar um modelo lógico dimensional para poder responder as tarefas de negocio do setor hospitalario, a partir do modelo logico transacional.
 
 ## Introdução:
 
